@@ -3,7 +3,7 @@
 I'm Maeve/Méaḋḃ, a research software engineer on the research computing team at the University of Leeds.
 
 - 🔭 I have a PhD in planetary science, where I modelled early-Solar System planetesimals using Python, and tied these models to geochemical and microstructural analyses of meteorites. See some of my publications/research outputs here:
-  - [Interactive planetary science: visualising pallsite cooling](https://pallasite.streamlit.app/)
+  - [Interactive planetary science: explore pallasite cooling](https://pallasite.streamlit.app/)
   - [The Conductive Cooling of Planetesimals With Temperature-Dependent Properties (Murphy Quinlan et al., 2021)](https://doi.org/10.1029/2020JE006726)
   - [Reconciling fast and slow cooling during planetary formation as recorded in the main group pallasites (Murphy Quinlan et al., 2023)](https://doi.org/10.1016/j.epsl.2023.118284)
   - [Pytesimal: A **Py**thon package to model plane**tesimals** (Murphy Quinlan and Walker, 2020)](https://murphyqm.github.io/pytesimal/)
