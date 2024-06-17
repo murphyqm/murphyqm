@@ -2,6 +2,8 @@
 
 I'm Maeve/Méaḋḃ, a research software engineer on the research computing team at the University of Leeds.
 
+Have you come looking for presentation slides? You can find them [here](https://murphyqm.github.io/slides/).
+
 - 🔭 I have a PhD in planetary science, where I modelled early-Solar System planetesimals using Python, and tied these models to geochemical and microstructural analyses of meteorites. See some of my publications/research outputs here:
   - [Interactive planetary science: explore pallasite cooling](https://pallasite.streamlit.app/)
   - [The Conductive Cooling of Planetesimals With Temperature-Dependent Properties (Murphy Quinlan et al., 2021)](https://doi.org/10.1029/2020JE006726)
