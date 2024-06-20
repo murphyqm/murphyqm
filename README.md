@@ -16,6 +16,14 @@ Have you come looking for presentation slides? You can find them [here](https://
 - 👯 I’m collaborating on a number of projects supporting webapps developed both with Python/Dash and R/RShiny, deployed with Azure.
 - 💬 Ask me about research computing: https://bit.ly/arc-help
 
+# ⚡DeReLiCT Software Principles
+
+1. **De**penedencies: record your dependencies, use a package manager to pin them, avoid dependency hell!
+2. **Re**pository: put your code in a publically accessible, version-controlled repository.
+3. **Li**cense: add a license to your software.
+4. **C**itation: make it easy for users to cite your code with a Citation Format File (CFF).
+5. **T**esting: test your code and benchmarking, the same way you would validate laboratory analyses.
+
 
 ![Maeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=murphyqm&show_icons=true&theme=synthwave&hide_rank=true)
 
