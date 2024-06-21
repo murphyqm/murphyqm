@@ -16,7 +16,9 @@ Have you come looking for presentation slides? You can find them [here](https://
 - 👯 I’m collaborating on a number of projects supporting webapps developed both with Python/Dash and R/RShiny, deployed with Azure.
 - 💬 Ask me about research computing: https://bit.ly/arc-help
 
-# ⚡DeReLiCT Software Principles
+# ⚡Avoid DeReLiCT Code
+
+Read more [here](https://derelict.streamlit.app/).
 
 1. **De**penedencies: record your dependencies, use a package manager to pin them, avoid dependency hell!
 2. **Re**pository: put your code in a publically accessible, version-controlled repository.
