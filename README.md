@@ -26,6 +26,7 @@ Read more [here](https://derelict.streamlit.app/).
 4. **C**itation: make it easy for users to cite your code with a Citation Format File (CFF).
 5. **T**esting: test your code and benchmarking, the same way you would validate laboratory analyses.
 
+# Stats
 
 ![Maeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=murphyqm&show_icons=true&theme=synthwave&hide_rank=true)
 
