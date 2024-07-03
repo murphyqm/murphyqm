@@ -13,7 +13,7 @@ Have you come looking for presentation slides? You can find them [here](https://
 
 
 - 🌱 I’m currently learning more about containerisation using both Docker and Apptainer to support researchers in reproducible computation.
-- 👯 I’m collaborating on a number of projects supporting webapps developed both with Python/Dash and R/RShiny, deployed with Azure.
+- 👯 I’m collaborating on a number of projects supporting webapps developed both with Python/Dash and R/RShiny, deployed with Azure: [Priority Places for Food Index](https://priorityplaces.cdrc.ac.uk/); [Nutrient Profile Model Calculator](https://npmcalculator.cdrc.ac.uk/); [nutrientprofiler R package](https://murphyqm.github.io/edits-nutrientprofiler/).
 - 💬 Ask me about research computing: https://bit.ly/arc-help
 
 # ⚡Avoid DeReLiCT Code
