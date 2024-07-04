@@ -35,6 +35,16 @@ Quickly generate a minimalist, simple project folder structure and a `pyproject.
 ![Maeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=murphyqm&show_icons=true&theme=synthwave&hide_rank=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murphyqm)](https://github.com/murphyqm/github-readme-stats&theme=synthwave)
+
+<script src="https://utteranc.es/client.js"
+        repo="murphyqm/murphyqm"
+        issue-term="pathname"
+        label="✨ Leave a comment 💬 ✨"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
+
 <!--
 **murphyqm/murphyqm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
