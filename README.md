@@ -1,6 +1,6 @@
 ### Dia dhuit! 👋
 
-I'm Maeve/Méaḋḃ, a research software engineer on the research computing team at the University of Leeds.
+I'm Maeve/Méaḋḃ (she/her), a research software engineer on the research computing team at the University of Leeds.
 
 Have you come looking for presentation slides? You can find them [here](https://murphyqm.github.io/slides/).
 
@@ -36,6 +36,7 @@ Quickly generate a minimalist, simple project folder structure and a `pyproject.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murphyqm)](https://github.com/murphyqm/github-readme-stats&theme=synthwave)
 
+<!--
 <script src="https://utteranc.es/client.js"
         repo="murphyqm/murphyqm"
         issue-term="pathname"
@@ -44,6 +45,7 @@ Quickly generate a minimalist, simple project folder structure and a `pyproject.
         crossorigin="anonymous"
         async>
 </script>
+-->
 
 <!--
 **murphyqm/murphyqm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
