@@ -29,35 +29,3 @@ Read more [here](https://derelict.streamlit.app/).
 # Package your Python Code
 
 Quickly generate a minimalist, simple project folder structure and a `pyproject.toml` file for your Python package [here](https://package-your-python.streamlit.app/).
-
-# Stats
-
-![Maeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=murphyqm&show_icons=true&theme=synthwave&hide_rank=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murphyqm)](https://github.com/murphyqm/github-readme-stats&theme=synthwave)
-
-<!--
-<script src="https://utteranc.es/client.js"
-        repo="murphyqm/murphyqm"
-        issue-term="pathname"
-        label="✨ Leave a comment 💬 ✨"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
--->
-
-<!--
-**murphyqm/murphyqm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
